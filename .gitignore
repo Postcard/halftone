@@ -1,0 +1,10 @@
+*.swp
+*~
+*.iml
+.DS_Store
+.idea
+npm-debug.log
+dist
+node_modules
+halftone.png
+hafltone.jpg
